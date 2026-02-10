@@ -1,4 +1,4 @@
-jsx - JavaScript file containing HTML code.
+// jsx - JavaScript file containing HTML code.
 
 
   import React, { useState } from "react";
