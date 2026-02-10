@@ -1,5 +1,7 @@
 // jsx - JavaScript file containing HTML code.
 
+// Example - code snippet of how a JSX file looks!!
+
 
   import React, { useState } from "react";
 
